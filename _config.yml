@@ -101,6 +101,6 @@ service-worker: true
 friends: [
     {
         title: "GitHub",
-        href: "http://zhengwuyang.com"
+        href: "https://github.com/Just4Funix"
     }
 ]
